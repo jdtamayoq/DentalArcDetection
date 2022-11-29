@@ -1,4 +1,4 @@
-# DentalArcDetection
+# DentalArch v2
 
 ![image](https://user-images.githubusercontent.com/3671228/168693938-d3409c0a-4841-4ce9-ae1b-abddbdaed228.png)
 
